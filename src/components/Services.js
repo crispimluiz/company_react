@@ -2,7 +2,6 @@ import React from 'react'
 
 const Services = props => {
   return (
-
     <div id='services' className='container-fluid text-center'>
       <h2>SERVICES</h2>
       <h4>What we offer</h4>
